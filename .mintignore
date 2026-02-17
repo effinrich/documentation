@@ -5,3 +5,9 @@
 # Draft content
 drafts/
 *.draft.mdx
+
+# Duplicate/template files
+introduction copy.mdx
+configuration copy.mdx
+index.mdx
+development.mdx
